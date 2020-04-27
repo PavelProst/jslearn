@@ -1,0 +1,1 @@
+let anonym = () => console.log('we are anonym')
